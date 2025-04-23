@@ -19,6 +19,6 @@ BLACKLIST_CHAT = list(map(int, os.getenv("BLACKLIST_CHAT", "-1002638098602").spl
 
 RMBG_API = os.getenv("RMBG_API", "VegrZSZEnnAsufcGsaxECDv6")
 
-MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://BlueeParadise:anjingggg@blueparadise.gaumx9s.mongodb.net/?retryWrites=true&w=majority&appName=BlueParadise")
+MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://iyaaaaaa:anjingggg@iyaaanjing.uzkxmrz.mongodb.net/?retryWrites=true&w=majority&appName=iyaaanjing")
 
 LOGS_MAKER_UBOT = int(os.getenv("LOGS_MAKER_UBOT", " -1002638098602"))
